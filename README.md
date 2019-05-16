@@ -88,3 +88,32 @@
 #### OSCP labs to automate information gathering and service enumeration
 * [Reconnoitre](https://github.com/codingo/Reconnoitre)
 * [Vanquish](https://github.com/frizb/Vanquish)
+
+#### Vulnhub - Machines similar to the PWK labs
+* [Metasploitable3](https://github.com/rapid7/metasploitable3)
+* [Kioptrix: Level 1 (#1)](https://www.vulnhub.com/entry/kioptrix-level-1-1,22/)
+* [Kioptrix: Level 1.1 (#2)](https://www.vulnhub.com/entry/kioptrix-level-11-2,23/)
+* [Kioptrix: Level 1.2 (#3)](https://www.vulnhub.com/entry/kioptrix-level-12-3,24/)
+* [Kioptrix: Level 1.3 (#4)](https://www.vulnhub.com/entry/kioptrix-level-13-4,25/)
+* [FristiLeaks: 1.3](https://www.vulnhub.com/entry/fristileaks-13,133/)
+* [Stapler: 1](https://www.vulnhub.com/entry/stapler-1,150/)
+* [PwnLab: init](https://www.vulnhub.com/entry/pwnlab-init,158/)
+* [Tr0ll: 1](https://www.vulnhub.com/entry/tr0ll-1,100/)
+* [Tr0ll: 2](https://www.vulnhub.com/entry/tr0ll-2,107/)
+* [Kioptrix: 2014](https://www.vulnhub.com/entry/kioptrix-2014-5,62/)
+* [Lord Of The Root: 1.0.1](https://www.vulnhub.com/entry/lord-of-the-root-101,129/)
+* [Mr-Robot: 1](https://www.vulnhub.com/entry/mr-robot-1,151/)
+* [HackLAB: Vulnix](https://www.vulnhub.com/entry/hacklab-vulnix,48/)
+* [HackInOS](https://www.vulnhub.com/entry/hackinos-1,295/)
+* [VulnOS: 2](https://www.vulnhub.com/entry/vulnos-2,147/)
+* [SickOs: 1.2](https://www.vulnhub.com/entry/sickos-12,144/)
+* [pWnOS: 2.0](https://www.vulnhub.com/entry/pwnos-20-pre-release,34/)
+* [Temple of Doom](https://www.vulnhub.com/entry/temple-of-doom-1,243/)
+* [SolidState](https://www.vulnhub.com/entry/solidstate-1,261/)
+* [Vulnix](https://www.vulnhub.com/entry/hacklab-vulnix,48/)
+* [Zico2](https://www.vulnhub.com/entry/zico2-1,210/)
+* [Billu_b0x 2](https://www.vulnhub.com/entry/billu-b0x-2,238/)
+* [SkyTower](https://www.vulnhub.com/entry/skytower-1,96/)
+* [WinterMute](https://www.vulnhub.com/entry/wintermute-1,239/)
+
+
