@@ -8,6 +8,7 @@
 * [Password Attacks](#password-attacks)
 * [Wordlists](#wordlists)
 * [Privilege Escalation](#privilege-escalation)
+* [Buffer Overflows and Exploits](#buffer-overflows-and-exploits)
 
 ------
 
@@ -30,11 +31,13 @@
 #### Linux Privilege Escalation
 * [pspy - Monitor linux processes without root permissions](https://github.com/PentestMafia/pspy)
 * [LinEnum - Scripted Local Linux Enumeration & Privilege Escalation Checks](https://github.com/PentestMafia/LinEnum)
-
+* [linuxprivchecker.py -- a Linux Privilege Escalation Check Script](https://github.com/sleventyeleven/linuxprivchecker)
+* [vector (getcap/setcap)](https://nxnjz.net/2018/08/an-interesting-privilege-escalation-vector-getcap/)
+* [linux-exploit-suggester](https://github.com/mzet-/linux-exploit-suggester)
 
 #### Windows Privilege Escalation
 
-#### Static Binaries for Windows and Linux 
+#### Standalone binaries for Linux/Windows
 * [Impacket Static Binaries - Standalone binaries for Linux/Windows of Impacket's examples](https://github.com/PentestMafia/impacket_static_binaries)
 * [Various nix tools built as statically-linked binaries](https://github.com/andrew-d/static-binaries)
 
@@ -50,3 +53,19 @@
 
 ## Wordlists
 * [SecLists - It's a collection of multiple types of lists used during security assessments, collected in one place](https://github.com/danielmiessler/SecLists)
+
+## Buffer Overflows and Exploits
+#### Nmap Fuzzers
+* [Nmap Fuzzer List](https://nmap.org/nsedoc/categories/fuzzer.html)
+
+#### Stack Based Overflows
+* [Exploit writing tutorial part 1 : Stack Based Overflows](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
+
+#### Mona
+* [mona.py - the manual](https://www.corelan.be/index.php/2011/07/14/mona-py-the-manual/)
+
+#### Debugger
+* [.NET debugger and assembly editor](https://github.com/0xd4d/dnSpy)
+* [Immunity Debugger](https://www.immunityinc.com/products/debugger/)
+* [OllyDbg](http://www.ollydbg.de/)
+* [Radare](https://rada.re/r/)
