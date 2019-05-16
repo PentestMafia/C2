@@ -9,6 +9,7 @@
 * [Wordlists](#wordlists)
 * [Privilege Escalation](#privilege-escalation)
 * [Buffer Overflows and Exploits](#buffer-overflows-and-exploits)
+* [OSCP Preparation](#oscp-preparation)
 
 ------
 
@@ -74,3 +75,9 @@
 * [Immunity Debugger](https://www.immunityinc.com/products/debugger/)
 * [OllyDbg](http://www.ollydbg.de/)
 * [Radare](https://rada.re/r/)
+
+## OSCP Preparation
+#### Buffer Overflows
+* [Random Exploits](https://github.com/w4fz5uck5/3XPL01t5)
+* [Stack practice](https://github.com/e-anakein/OSCP)
+
