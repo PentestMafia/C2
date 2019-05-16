@@ -36,6 +36,9 @@
 * [linux-exploit-suggester](https://github.com/mzet-/linux-exploit-suggester)
 
 #### Windows Privilege Escalation
+* [PowerSploit - A PowerShell Post-Exploitation Framework](https://github.com/PowerShellMafia/PowerSploit)
+* [Windows Kernel Exploits](https://github.com/SecWiki/windows-kernel-exploits)
+* [PayloadsAllTheThings - Windows - Privilege Escalation](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md)
 
 #### Standalone binaries for Linux/Windows
 * [Impacket Static Binaries - Standalone binaries for Linux/Windows of Impacket's examples](https://github.com/PentestMafia/impacket_static_binaries)
