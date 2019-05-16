@@ -85,4 +85,6 @@
 #### Writeups / Guide
 * [OSCP Survival Guide](https://github.com/wwong99/pentest-notes/blob/master/oscp_resources/OSCP-Survival-Guide.md)
 
-
+#### OSCP labs to automate information gathering and service enumeration
+* [Reconnoitre](https://github.com/codingo/Reconnoitre)
+* [Vanquish](https://github.com/frizb/Vanquish)
