@@ -118,7 +118,7 @@
 
 #### IppSec Videos - Machines Windows
 * [CTF - Windows -Easy](https://www.youtube.com/watch?v=Rr6Oxrj2IjU&list=PLidcsTyj9JXL4Jv6u9qi8TcUgsNoKKHNn)
-* [CTF -Windows - Medium](https://www.youtube.com/watch?v=J2unwbMQvUo&list=PLidcsTyj9JXI9E9dT1jgXxvTOi7Pq_2c5)
+* [CTF - Windows - Medium](https://www.youtube.com/watch?v=J2unwbMQvUo&list=PLidcsTyj9JXI9E9dT1jgXxvTOi7Pq_2c5)
 * [CTF - Windows - Hard](https://www.youtube.com/watch?v=ob9SgtFm6_g&list=PLidcsTyj9JXK2sdXaK5He4-Z8G0Ra-4u2)
 * [CTF - Windows - Insane](https://www.youtube.com/watch?v=Bhh5yPHjwUY&list=PLidcsTyj9JXJSn8KxSr_-9eKEwxJJtf_x)
 
