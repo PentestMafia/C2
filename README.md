@@ -7,6 +7,7 @@
 * [Exploitation](#exploitation)
 * [Password Attacks](#password-attacks)
 * [Wordlists](#wordlists)
+* [Privilege Escalation](#privilege-escalation)
 
 ------
 
@@ -25,6 +26,17 @@
 * [Google](https://www.google.com/)
 * [Exploit Database - Exploits for Penetration Testers, Researchers, and ...](https://www.exploit-db.com/)
 
+## Privilege Escalation
+#### Linux Privilege Escalation
+* [pspy - Monitor linux processes without root permissions](https://github.com/PentestMafia/pspy)
+* [LinEnum - Scripted Local Linux Enumeration & Privilege Escalation Checks](https://github.com/PentestMafia/LinEnum)
+
+
+#### Windows Privilege Escalation
+
+#### Static Binaries for Windows and Linux 
+* [Impacket Static Binaries - Standalone binaries for Linux/Windows of Impacket's examples](https://github.com/PentestMafia/impacket_static_binaries)
+* [Various nix tools built as statically-linked binaries](https://github.com/andrew-d/static-binaries)
 
 ## Password Attacks
 #### Brute Force
