@@ -24,3 +24,5 @@
 ## Brute Force
 #### Password Attacks
 * [Nmap Brute forcing Scripts](https://nmap.org/nsedoc/categories/brute.html)
+* [John - The Ripper](https://github.com/magnumripper/JohnTheRipper)
+* [Crunch - Generate Wordlists](https://github.com/jim3ma/crunch)
