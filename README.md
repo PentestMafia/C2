@@ -21,6 +21,10 @@
 
 
 ## Exploitation
+#### Search
+* [Google](https://www.google.com/)
+* [Exploit Database - Exploits for Penetration Testers, Researchers, and ...](https://www.exploit-db.com/)
+
 
 ## Password Attacks
 #### Brute Force
