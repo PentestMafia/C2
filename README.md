@@ -6,6 +6,7 @@
 * [Enumeration](#enumeration)
 * [Exploitation](#exploitation)
 * [Password Attacks](#password-attacks)
+* [Wordlists](#wordlists)
 
 ------
 
@@ -30,3 +31,6 @@
 
 #### Extract
 * [Mimikatz - to extract plaintexts passwords, hash, PIN code and kerberos tickets from memory](https://github.com/gentilkiwi/mimikatz)
+
+## Wordlists
+* [SecLists - It's a collection of multiple types of lists used during security assessments, collected in one place](https://github.com/danielmiessler/SecLists)
