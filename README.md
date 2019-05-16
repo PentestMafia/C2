@@ -80,4 +80,5 @@
 #### Writeups / Exploits / Training
 * [Random Exploits](https://github.com/w4fz5uck5/3XPL01t5)
 * [Stack practice](https://github.com/e-anakein/OSCP)
+* [MiniShare 1.4.1 - Remote Buffer Overflow](https://e-anakein.github.io/minishare/1.4.1/-/remote/buffer/overflow/2019/01/06/bof-minishare.html)
 
