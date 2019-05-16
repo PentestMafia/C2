@@ -77,8 +77,12 @@
 * [Radare](https://rada.re/r/)
 
 ## OSCP Preparation
-#### Writeups / Exploits / Training
+#### Exploits / Training
 * [Random Exploits](https://github.com/w4fz5uck5/3XPL01t5)
 * [Stack practice](https://github.com/e-anakein/OSCP)
+
+#### Writeups / Guide
 * [MiniShare 1.4.1 - Remote Buffer Overflow](https://e-anakein.github.io/minishare/1.4.1/-/remote/buffer/overflow/2019/01/06/bof-minishare.html)
+* [OSCP Survival Guide](https://github.com/wwong99/pentest-notes/blob/master/oscp_resources/OSCP-Survival-Guide.md)
+
 
