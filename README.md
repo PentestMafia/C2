@@ -4,6 +4,8 @@
 
 ## Table of Contents
 * [Enumeration](#enumeration)
+* [Exploitation](#exploitation)
+* [Brute Force](#brute-force)
 
 ------
 
@@ -17,3 +19,8 @@
 * [SMB Checklist](https://0xdf.gitlab.io/2018/12/02/pwk-notes-smb-enumeration-checklist-update1.html)
 
 
+## Exploitation
+
+## Brute Force
+#### Password Attacks
+* [Nmap Brute forcing Scripts](https://nmap.org/nsedoc/categories/brute.html)
