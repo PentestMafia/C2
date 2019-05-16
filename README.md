@@ -77,7 +77,7 @@
 * [Radare](https://rada.re/r/)
 
 ## OSCP Preparation
-#### Buffer Overflows
+#### Writeups / Exploits / Training
 * [Random Exploits](https://github.com/w4fz5uck5/3XPL01t5)
 * [Stack practice](https://github.com/e-anakein/OSCP)
 
