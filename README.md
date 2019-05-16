@@ -13,4 +13,7 @@
 * [Gobuster - Directory/file & DNS busting tool written in Go](https://github.com/OJ/gobuster)
 * [Wfuzz - Web application fuzzer](https://github.com/xmendez/wfuzz)
 
+### SMB Enumeration
+* [SMB Checklist](https://0xdf.gitlab.io/2018/12/02/pwk-notes-smb-enumeration-checklist-update1.html)
+
 
