@@ -116,13 +116,13 @@
 * [SkyTower](https://www.vulnhub.com/entry/skytower-1,96/)
 * [WinterMute](https://www.vulnhub.com/entry/wintermute-1,239/)
 
-#### Ippsec Videos - Machines Windows
+#### IppSec Videos - Machines Windows
 * [CTF - Windows -Easy](https://www.youtube.com/watch?v=Rr6Oxrj2IjU&list=PLidcsTyj9JXL4Jv6u9qi8TcUgsNoKKHNn)
 * [CTF -Windows - Medium](https://www.youtube.com/watch?v=J2unwbMQvUo&list=PLidcsTyj9JXI9E9dT1jgXxvTOi7Pq_2c5)
 * [CTF - Windows - Hard](https://www.youtube.com/watch?v=ob9SgtFm6_g&list=PLidcsTyj9JXK2sdXaK5He4-Z8G0Ra-4u2)
 * [CTF - Windows - Insane](https://www.youtube.com/watch?v=Bhh5yPHjwUY&list=PLidcsTyj9JXJSn8KxSr_-9eKEwxJJtf_x)
 
-#### Ippsec Videos - Machines Unix
+#### IppSec Videos - Machines Unix
 * [CTF - Nix - Easy](https://www.youtube.com/watch?v=OGFTM_qvtVI&list=PLidcsTyj9JXJfpkDrttTdk1MNT6CDwVZF)
 * [CTF - Nix - Medium](https://www.youtube.com/watch?v=yQgtDoCDAYk&list=PLidcsTyj9JXJKC2u55YVa5aMDBRXsawhr)
 * [CTF - Nix - Hard](https://www.youtube.com/watch?v=RLvFwiDK_F8&list=PLidcsTyj9JXJlmHwZScT3He3rO4ni-xwH)
