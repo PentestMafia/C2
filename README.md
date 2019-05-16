@@ -11,4 +11,4 @@
 
 ### Web Discovery
 
-* [Web path scanner](https://github.com/maurosoria/dirsearch)
+* [Dirsearch - Web path scanner](https://github.com/maurosoria/dirsearch)
