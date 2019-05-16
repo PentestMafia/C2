@@ -34,11 +34,13 @@
 * [linuxprivchecker.py -- a Linux Privilege Escalation Check Script](https://github.com/sleventyeleven/linuxprivchecker)
 * [vector (getcap/setcap)](https://nxnjz.net/2018/08/an-interesting-privilege-escalation-vector-getcap/)
 * [linux-exploit-suggester](https://github.com/mzet-/linux-exploit-suggester)
+* [Checklist](https://github.com/PentestMafia/Checklists/blob/master/Linux-Privilege-Escalation.md)
 
 #### Windows Privilege Escalation
 * [PowerSploit - A PowerShell Post-Exploitation Framework](https://github.com/PowerShellMafia/PowerSploit)
-* [Windows Kernel Exploits](https://github.com/SecWiki/windows-kernel-exploits)
-* [PayloadsAllTheThings - Windows - Privilege Escalation](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md)
+* [Windows Kernel Exploits](https://github.com/PentestMafia/windows-kernel-exploits)
+* [PayloadsAllTheThings - Windows - Privilege Escalation](https://github.com/PentestMafia/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md)
+* [Checklist](https://github.com/PentestMafia/Checklists/blob/master/Windows-Privilege-Escalation.md)
 
 #### Standalone binaries for Linux/Windows
 * [Impacket Static Binaries - Standalone binaries for Linux/Windows of Impacket's examples](https://github.com/PentestMafia/impacket_static_binaries)
