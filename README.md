@@ -5,7 +5,7 @@
 ## Table of Contents
 * [Enumeration](#enumeration)
 * [Exploitation](#exploitation)
-* [Brute Force](#brute-force)
+* [Password Attacks](#password-attacks)
 
 ------
 
@@ -21,9 +21,12 @@
 
 ## Exploitation
 
-## Brute Force
-#### Password Attacks
+## Password Attacks
+#### Brute Force
 * [Nmap Brute forcing Scripts](https://nmap.org/nsedoc/categories/brute.html)
 * [John The Ripper - is a fast password cracker](https://github.com/magnumripper/JohnTheRipper)
 * [Crunch - Wordlist Generator](https://github.com/jim3ma/crunch)
 * [Hashcat -  World's fastest and most advanced password recovery utility](https://github.com/hashcat)
+
+#### Extract
+* [Mimikatz - to extract plaintexts passwords, hash, PIN code and kerberos tickets from memory](https://github.com/gentilkiwi/mimikatz)
